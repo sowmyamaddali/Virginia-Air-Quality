@@ -5,7 +5,7 @@ It includes daily trends, weekday patterns, and a county-level map of pollution 
 
 ![Air Quality Dashboard](./assets/dashboard.png)
 
-📊 [View interactive version on Tableau Public](https://public.tableau.com/views/air_quality_workbook_dashboard/VirginiaAirQualityAnalysis2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View interactive version on Tableau Public](https://public.tableau.com/views/air_quality_workbook_dashboard/VirginiaAirQualityAnalysis2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Tools Used
 - Excel (Data Cleaning)
