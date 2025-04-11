@@ -17,7 +17,7 @@ Data was cleaned and pre-processed in **Excel**, then visualized using **Tableau
 
 ## Dashboard Preview
 
-![Air Quality Dashboard](./dashboard.png)
+![Air Quality Dashboard](./assets/dashboard.png)
 
 📍 [View interactive dashboard on Tableau Public](https://public.tableau.com/views/air_quality_workbook_dashboard/VirginiaAirQualityAnalysis2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
